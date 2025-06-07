@@ -5,15 +5,23 @@
 Me chamo Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC.
 
 <p align="left">
-    <a href="https://github.com/CarlosHenriqr">
+    <a href="https://www.instagram.com/ramos.hc/">
         <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
+            alt="Instagram" 
+            title=Instagram" 
+            src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge"
         />
     </a>
----
+    <a href="https://www.linkedin.com/in/carlos-henrique-ramos-671333310/">
+        <img 
+            alt="Linkedin" 
+            title="Linkedin" 
+            src="https://camo.githubusercontent.com/17b4032d58481ee532cb75aea5e90d5cdc0d595181b33eeda71be514c66929ef/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f6d6573736167653d4c696e6b6564496e266c6f676f3d6c696e6b6564696e266c6162656c3d26636f6c6f723d303037374235266c6f676f436f6c6f723d7768697465266c6162656c436f6c6f723d267374796c653d666f722d7468652d6261646765"
+        />
+    </a>
 
+---
+    
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -62,11 +70,13 @@ Me chamo Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina. A
     title="Java"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg"
 />
 
 <br/>
 <br/>
+
+---
 
 ### 📊 Estatísticas
 
@@ -76,14 +86,14 @@ Me chamo Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina. A
     alt="GitHub Stats" 
     height="200" 
     style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=Larissakich&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
   />
 
 <img 
       align="left" 
       alt="GitHub Stats" 
       height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=larissakich&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
 </p>
