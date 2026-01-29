@@ -32,5 +32,3 @@ Meu nome é Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina
 
 <p align="left">
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHenriqr&theme=tokyonight" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
-</p>
