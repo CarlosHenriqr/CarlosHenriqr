@@ -2,7 +2,7 @@
 
 **`Desenvolvedor BackEnd`**
 
-Me chamo Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas no SENAC.
+Meu nome é Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina. Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas no SENAC e estagiário na Intelbras, onde estou adquirindo experiência prática no setor. Além disso, estou investindo em projetos pessoais para aprimorar minha lógica de programação e fortalecer meu desenvolvimento profissional.
 
 <p align="left">
   <a href="https://www.instagram.com/ramos.hc/">
@@ -31,6 +31,6 @@ Me chamo Carlos Henrique Ramos, tenho 21 anos e sou natural de Santa Catarina. A
 ### 📊 Estatísticas
 
 <p align="left">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqr&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHenriqr&theme=tokyonight" />
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqr&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" />
 </p>
