@@ -27,10 +27,6 @@ My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, 
 
 ###
 
-<h2 align="center">Minhas redes</h2>
-
-###
-
 <div align="center">
   <a href="https://www.instagram.com/ramos.hc/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
