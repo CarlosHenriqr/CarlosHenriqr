@@ -25,6 +25,8 @@ My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="pg logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"/>
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/subabase-original.svg" height="40" alt="node logo"/>
   
 </div>
 
