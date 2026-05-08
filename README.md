@@ -3,6 +3,12 @@ Back-End Developer
 
 My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, Brazil. Currently, I am a Software Analysis and Development student at SENAC and an intern at Intelbras, where I'm gaining hands-on experience in the industry. Additionally, I'm constantly investing in personal projects to sharpen my programming logic and strengthen my professional development.
 
+🌐 Portfolio
+
+<a href="https://carlos-henrique-teal.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="portfolio link" />
+</a>
+
 🤖 Languages and Technologies
 <h2 align="center">Minha habilidades</h2>
 
@@ -25,8 +31,6 @@ My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height="40" alt="pg logo"/>
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="40" alt="node logo"/>
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/subabase-original.svg" height="40" alt="node logo"/>
   
 </div>
 
