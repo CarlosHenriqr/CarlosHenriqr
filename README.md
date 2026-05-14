@@ -4,7 +4,7 @@ Back-End Developer
 My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, Brazil. Currently, I am a Software Analysis and Development student at SENAC and an intern at Intelbras, where I'm gaining hands-on experience in the industry. Additionally, I'm constantly investing in personal projects to sharpen my programming logic and strengthen my professional development.
 
 🤖 Languages and Technologies
-<h2 align="center">Minha habilidades</h2>
+<h2 align="center">Minhas habilidades</h2>
 
 <div align="center">
   <img width="12" />
