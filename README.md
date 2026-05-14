@@ -49,11 +49,10 @@ My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, 
 ###
 
 <h2 align="center">Informações adicionais</h2>
-
-
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHenriqr&theme=dark&hide_border=false&border_radius=5&locale=pt-br" 
     height="150" 
+    align="center"
     alt="GitHub streak"  
   />
 </div>
