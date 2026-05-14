@@ -50,12 +50,6 @@ My name is Carlos Henrique Ramos, I'm 21 years old and I'm from Santa Catarina, 
 
 <h2 align="center">Informações adicionais</h2>
 
-<div align="center">
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqr&layout=compact&langs_count=6&theme=dark&hide_border=false&locale=pt-br" 
-    height="150" 
-    alt="Linguagens mais usadas"  
-  />
 
   <img 
     src="https://github-readme-streak-stats.herokuapp.com/?user=CarlosHenriqr&theme=dark&hide_border=false&border_radius=5&locale=pt-br" 
