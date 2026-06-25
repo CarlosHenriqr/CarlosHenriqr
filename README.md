@@ -1,8 +1,8 @@
 # 👨‍💻 Carlos Henrique Ramos
 
-**Back-End Developer | Software Analysis and Development Student**
+**Full-Stack Developer with a Back-end Focus | Software Analysis and Development Student**
 
-I'm Carlos Henrique Ramos, 22 years old, from Santa Catarina, Brazil.
+I'm Carlos Henrique Ramos, 21 years old, from Santa Catarina, Brazil.
 
 Currently, I'm studying Software Analysis and Development at SENAC and working as an intern at Intelbras, where I gain practical experience with software development, databases, automation, and business systems.
 
@@ -37,7 +37,7 @@ Collection of applications focused on APIs, automation, databases, and full-stac
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Languages & Tools
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="45" alt="Java" />
@@ -57,6 +57,14 @@ Collection of applications focused on APIs, automation, databases, and full-stac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="45" alt="PHP" />
   <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="45" alt="Git" />
+</div>
+
+## ☁️ Cloud & DevOps
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cloudflare/cloudflare-original.svg" height="45" alt="Cloudflare" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="45" alt="Vercel" />
 </div>
 
 ---
