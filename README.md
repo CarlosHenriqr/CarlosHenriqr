@@ -2,7 +2,7 @@
 
 **Full-Stack Developer with a Back-end Focus | Software Analysis and Development Student**
 
-I'm Carlos Henrique Ramos, 21 years old, from Santa Catarina, Brazil.
+I'm Carlos Henrique Ramos, 22 years old, from Santa Catarina, Brazil.
 
 Currently, I'm studying Software Analysis and Development at SENAC and working as an intern at Intelbras, where I gain practical experience with software development, databases, automation, and business systems.
 
