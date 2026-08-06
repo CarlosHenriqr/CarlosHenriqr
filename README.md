@@ -72,11 +72,6 @@ Collection of applications focused on APIs, automation, databases, and full-stac
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=CarlosHenriqr&show_icons=true&theme=dark&hide_border=true&count_private=true&locale=en" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CarlosHenriqr&layout=compact&theme=dark&hide_border=true&locale=en" alt="Top Languages" />
-</div>
-
-<div align="center">
   <img src="https://streak-stats.demolab.com/?user=CarlosHenriqr&theme=dark&hide_border=true&locale=en" height="170" alt="GitHub Streak Stats" />
 </div>
 
