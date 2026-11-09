@@ -2,11 +2,11 @@
 
 **Full-Stack Developer with a Back-end Focus | Software Analysis and Development**
 
-I'm Carlos Henrique Ramos, 22 years old, from Santa Catarina, Brazil.
+I hold a degree in Systems Analysis and Development from SENAC and currently work as a Back-End Developer at Nutrition Group, focusing on software maintenance, support, and continuous improvement.
 
-Currently, I'm studying Software Analysis and Development at SENAC and working as an intern at Intelbras, where I gain practical experience with software development, databases, automation, and business systems.
+Previously, I interned at Intelbras, where I gained hands-on experience in software development, database management, process automation, and enterprise systems.
 
-I am passionate about technology and constantly build personal projects to improve my programming, architecture, and problem-solving skills.
+I'm passionate about technology and continuously work on personal projects to strengthen my skills in software engineering, system architecture, and problem-solving.
 
 ---
 
