@@ -19,7 +19,7 @@ A freelancer platform that connects professionals and clients through smart matc
 
 🌐 [Live Demo](https://task-io-7d3.pages.dev)
 
-### ContainerLab 🐳
+### 🐳 ContainerLab 
 A study platform focused on Docker and Kubernetes.
 
 **Stack:** React, TypeScript, Tailwind CSS, Node.js, PostgreSQL
