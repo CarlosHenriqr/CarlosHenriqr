@@ -1,6 +1,6 @@
 # 👨‍💻 Carlos Henrique Ramos
 
-**Full-Stack Developer with a Back-end Focus | Software Analysis and Development Student**
+**Full-Stack Developer with a Back-end Focus | Software Analysis and Development**
 
 I'm Carlos Henrique Ramos, 22 years old, from Santa Catarina, Brazil.
 
@@ -18,6 +18,13 @@ A freelancer platform that connects professionals and clients through smart matc
 **Stack:** React, TypeScript, Tailwind CSS, Node.js, PostgreSQL
 
 🌐 [Live Demo](https://task-io-7d3.pages.dev)
+
+### ContainerLab 🐳
+A study platform focused on Docker and Kubernetes.
+
+**Stack:** React, TypeScript, Tailwind CSS, Node.js, PostgreSQL
+
+🌐 [Live Demo](https://containerlab.vercel.app/course)
 
 ---
 
